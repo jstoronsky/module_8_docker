@@ -88,7 +88,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'module_7_drf',
         'USER': 'postgres',
-        'PASSWORD': 'Dem6600',
+        'PASSWORD': 'mysecretpassword',
+        'HOST': 'db'
     }
 }
 
